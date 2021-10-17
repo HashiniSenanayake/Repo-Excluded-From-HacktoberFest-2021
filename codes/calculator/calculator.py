@@ -221,6 +221,6 @@ ii.config(font=("verdana 14 bold", 12))
 dr = Label(root, text="HISTORY:", anchor=W, font='verdana 14 bold', height=5)
 dr.pack(side=BOTTOM, fill=X)
 we = Label(root, text="a", font='Courier', height=1, bg="#e6e6fa")
-we.place(x=530, y=283)
+we.place(x=530,y=283)
 
 root.mainloop()
